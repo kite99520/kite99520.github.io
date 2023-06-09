@@ -31,7 +31,7 @@ Xiao Pu, **Mingqi Gao**, Xiaojun Wan
 *ACL 2022*  [[paper](https://arxiv.org/abs/2306.05119)] [[code](https://github.com/kite99520/DialSummFactCorr)]  
 
 - Evaluating Factuality in Cross-lingual Summarization  
-**Mingqi Gao***, Wenqing Wang*, Xiaojun Wan, Yuemei Xu  
+**Mingqi Gao**\*, Wenqing Wang\*, Xiaojun Wan, Yuemei Xu  
 *Findings of ACL 2022*
 
 - DialSummEval: Revisiting Summarization Evaluation for Dialogues    
