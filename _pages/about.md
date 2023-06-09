@@ -20,18 +20,15 @@ Publications
 
 - Human-like Summarization Evaluation with ChatGPT  
 **Mingqi Gao**, Jie Ruan, Renliang Sun, Xunjian Yin, Shiping Yang, Xiaojun Wan  
-*arXiv 2023*  
-[[paper](https://arxiv.org/abs/2304.02554)]
+*arXiv 2023*  [[paper](https://arxiv.org/abs/2304.02554)]  
 
 - Is Summary Useful or Not? An Extrinsic Human Evaluation of Text Summaries on Downstream Tasks  
 Xiao Pu, **Mingqi Gao**, Xiaojun Wan  
-*arXiv 2023*  
-[[paper](https://arxiv.org/abs/2305.15044)]
+*arXiv 2023*  [[paper](https://arxiv.org/abs/2305.15044)]
 
 - Reference Matters: Benchmarking Factual Error Correction for Dialogue Summarization with Fine-grained Evaluation Framework    
 **Mingqi Gao**, Xiaojun Wan, Jia Su, Zhefeng Wang, Baoxing Huai  
-*ACL 2022* 
-[[paper](https://arxiv.org/abs/2306.05119)] [[code](https://github.com/kite99520/DialSummFactCorr)]
+*ACL 2022*  [[paper](https://arxiv.org/abs/2306.05119)] [[code](https://github.com/kite99520/DialSummFactCorr)]  
 
 - Evaluating Factuality in Cross-lingual Summarization  
 **Mingqi Gao***, Wenqing Wang*, Xiaojun Wan, Yuemei Xu  
@@ -39,6 +36,5 @@ Xiao Pu, **Mingqi Gao**, Xiaojun Wan
 
 - DialSummEval: Revisiting Summarization Evaluation for Dialogues    
 **Mingqi Gao**, Xiaojun Wan  
-*NAACL 2022*  
-[[paper](https://aclanthology.org/2022.naacl-main.418/)] [[code](https://github.com/kite99520/DialSummEval)] 
+*NAACL 2022*  [[paper](https://aclanthology.org/2022.naacl-main.418/)] [[code](https://github.com/kite99520/DialSummEval)]   
 
