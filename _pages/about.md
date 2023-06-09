@@ -15,16 +15,21 @@ Recent News
 
 - 2023-05: Two papers are accepted to ACL 2023 (one at main conference, one at findings). 
 
-Publications
+
+Preprints
 ======
 
 - Human-like Summarization Evaluation with ChatGPT  
 **Mingqi Gao**, Jie Ruan, Renliang Sun, Xunjian Yin, Shiping Yang, Xiaojun Wan  
-*arXiv 2023*  [[paper](https://arxiv.org/abs/2304.02554)]  
+*arXiv*:2304.02554  [[paper](https://arxiv.org/abs/2304.02554)]  
 
 - Is Summary Useful or Not? An Extrinsic Human Evaluation of Text Summaries on Downstream Tasks  
 Xiao Pu, **Mingqi Gao**, Xiaojun Wan  
-*arXiv 2023*  [[paper](https://arxiv.org/abs/2305.15044)]
+*arXiv*:2305.15044  [[paper](https://arxiv.org/abs/2305.15044)]
+
+
+Publications
+======
 
 - Reference Matters: Benchmarking Factual Error Correction for Dialogue Summarization with Fine-grained Evaluation Framework    
 **Mingqi Gao**, Xiaojun Wan, Jia Su, Zhefeng Wang, Baoxing Huai  
@@ -36,5 +41,14 @@ Xiao Pu, **Mingqi Gao**, Xiaojun Wan
 
 - DialSummEval: Revisiting Summarization Evaluation for Dialogues    
 **Mingqi Gao**, Xiaojun Wan  
-*NAACL 2022*  [[paper](https://aclanthology.org/2022.naacl-main.418/)] [[code](https://github.com/kite99520/DialSummEval)]   
+*NAACL 2022*  [[paper](https://aclanthology.org/2022.naacl-main.418/)] [[code](https://github.com/kite99520/DialSummEval)]  
 
+
+Awards
+======
+
+- Outstanding Graduate, Peking University, 2022
+- Second Class Scholarship, Peking University, 2019
+- Merit Student, Peking University, 2019
+- China Trademark & Patent Law Office Scholarship, Peking University, 2018
+- Academic Excellence Prize, Peking University, 2018
