@@ -18,14 +18,14 @@ Recent News
 Publications
 ======
 
-- Human-like Summarization Evaluation with ChatGPT
-**Mingqi Gao**, Jie Ruan, Renliang Sun, Xunjian Yin, Shiping Yang, Xiaojun Wan
-*arXiv 2023*
+- Human-like Summarization Evaluation with ChatGPT  
+**Mingqi Gao**, Jie Ruan, Renliang Sun, Xunjian Yin, Shiping Yang, Xiaojun Wan  
+*arXiv 2023*  
 [[paper](https://arxiv.org/abs/2304.02554)]
 
-- Is Summary Useful or Not? An Extrinsic Human Evaluation of Text Summaries on Downstream Tasks
-Xiao Pu, **Mingqi Gao**, Xiaojun Wan
-*arXiv 2023*
+- Is Summary Useful or Not? An Extrinsic Human Evaluation of Text Summaries on Downstream Tasks  
+Xiao Pu, **Mingqi Gao**, Xiaojun Wan  
+*arXiv 2023*  
 [[paper](https://arxiv.org/abs/2305.15044)]
 
 - Reference Matters: Benchmarking Factual Error Correction for Dialogue Summarization with Fine-grained Evaluation Framework    
