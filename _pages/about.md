@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year Master's student in [Wangxuan Institute of Computer Technology](https://www.icst.pku.edu.cn/english/home/index.htm) at Peking University. My advisor is Prof. [Xiaojun Wan](https://wanxiaojun.github.io/). My current research focus lies in Summarization and NLG Evaluation. For NLG Evaluation, I am interested in both automatic evaluation and human evaluation. Previously, I obtained my Bachelor’s degree at Peking University.
+I am a first-year Master's student in the [Wangxuan Institute of Computer Technology](https://www.icst.pku.edu.cn/english/home/index.htm) at Peking University. My advisor is Prof. [Xiaojun Wan](https://wanxiaojun.github.io/). My current research focus lies in Summarization and NLG Evaluation. For NLG Evaluation, I am interested in both automatic evaluation and human evaluation. Previously, I obtained my Bachelor’s degree at the [School of Electronics Engineering and Computer Science](https://eecs.pku.edu.cn/index.htm), Peking University.
 
 Recent News
 ======
