@@ -33,15 +33,15 @@ Publications
 
 - Reference Matters: Benchmarking Factual Error Correction for Dialogue Summarization with Fine-grained Evaluation Framework    
 **Mingqi Gao**, Xiaojun Wan, Jia Su, Zhefeng Wang, Baoxing Huai  
-*ACL 2023* (to appear)  [[paper](https://arxiv.org/abs/2306.05119)] [[code](https://github.com/kite99520/DialSummFactCorr)]  
+*ACL 2023* (to appear)  [[pdf](https://aclanthology.org/2023.acl-long.779.pdf)] [[code](https://github.com/kite99520/DialSummFactCorr)]  
 
 - Evaluating Factuality in Cross-lingual Summarization  
 **Mingqi Gao**\*, Wenqing Wang\*, Xiaojun Wan, Yuemei Xu  
-*Findings of ACL 2023* (to appear)
+*Findings of ACL 2023*  [[pdf](https://aclanthology.org/2023.findings-acl.786.pdf)] [[code](https://github.com/kite99520/Fact_CLS)] 
 
 - DialSummEval: Revisiting Summarization Evaluation for Dialogues    
 **Mingqi Gao**, Xiaojun Wan  
-*NAACL 2022*  [[paper](https://aclanthology.org/2022.naacl-main.418/)] [[code](https://github.com/kite99520/DialSummEval)]  
+*NAACL 2022*  [[pdf](https://aclanthology.org/2022.naacl-main.418.pdf)] [[code](https://github.com/kite99520/DialSummEval)]  
 
 
 Awards
