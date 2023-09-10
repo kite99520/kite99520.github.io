@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year Master's student in the [Wangxuan Institute of Computer Technology](https://www.icst.pku.edu.cn/english/home/index.htm) at Peking University. My advisor is Prof. [Xiaojun Wan](https://wanxiaojun.github.io/). My current research focus lies in Summarization and NLG Evaluation. For NLG Evaluation, I am interested in both automatic evaluation and human evaluation. Previously, I obtained my Bachelor’s degree in the [School of Electronics Engineering and Computer Science](https://eecs.pku.edu.cn/en/) at Peking University.
+I am a second-year Master's student in the [Wangxuan Institute of Computer Technology](https://www.icst.pku.edu.cn/english/home/index.htm) at Peking University. My advisor is Prof. [Xiaojun Wan](https://wanxiaojun.github.io/). My current research focus lies in Summarization and NLG Evaluation. For NLG Evaluation, I am interested in both automatic evaluation and human evaluation. Previously, I obtained my Bachelor’s degree in the [School of Electronics Engineering and Computer Science](https://eecs.pku.edu.cn/en/) at Peking University.
 
 Recent News
 ======
@@ -42,6 +42,12 @@ Publications
 - DialSummEval: Revisiting Summarization Evaluation for Dialogues    
 **Mingqi Gao**, Xiaojun Wan  
 *NAACL 2022*  [[pdf](https://aclanthology.org/2022.naacl-main.418.pdf)] [[code](https://github.com/kite99520/DialSummEval)]  
+
+
+Academic Services
+======
+
+- Reviewer: AAAI-2023, EMNLP-2023  
 
 
 Awards
