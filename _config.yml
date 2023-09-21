@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Mingqi Gao"
-  avatar           : "商务照2.jpg"
+  avatar           : "微信图片_20230801214333.jpg"
   bio              : "Master's student at Peking University working on NLP"
   location         : "Beijing, China"
   employer         :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : # "replacethistwitterhandle"
+  twitter          : "https://twitter.com/mingqi70158"
   vine             :
   weibo            :
   xing             :
