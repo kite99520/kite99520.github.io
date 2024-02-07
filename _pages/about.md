@@ -13,6 +13,7 @@ I am a second-year Master's student in the [Wangxuan Institute of Computer Techn
 Recent News
 ======
 
+- 2024-02: A survey paper on LLM-based NLG evaluation.
 - 2023-05: Two papers are accepted to ACL 2023 (one at main conference, one at findings). 
 
 
