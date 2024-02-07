@@ -19,6 +19,10 @@ Recent News
 Preprints
 ======
 
+- LLM-based NLG Evaluation: Current Status and Challenges  
+**Mingqi Gao**, Xinyu Hu, Jie Ruan, Xiao Pu, Xiaojun Wan  
+*arXiv*:2402.01383  [[paper](https://arxiv.org/pdf/2402.01383.pdf)] 
+
 - Human-like Summarization Evaluation with ChatGPT  
 **Mingqi Gao**, Jie Ruan, Renliang Sun, Xunjian Yin, Shiping Yang, Xiaojun Wan  
 *arXiv*:2304.02554  [[paper](https://arxiv.org/abs/2304.02554)]  
