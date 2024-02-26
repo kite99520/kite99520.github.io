@@ -25,7 +25,7 @@ Xinyu Hu\*, **Mingqi Gao**\*, Sen Hu, Yang Zhang, Yicheng Chen, Teng Xu, Xiaojun
 *arxiv*: 2402.12055  [[paper](https://arxiv.org/pdf/2402.12055.pdf)]
 
 - LLM-based NLG Evaluation: Current Status and Challenges  
-**Mingqi Gao**, Xinyu Hu, Jie Ruan, Xiao Pu, Xiaojun Wan  
+**Mingqi Gao**\*, Xinyu Hu\*, Jie Ruan, Xiao Pu, Xiaojun Wan  
 *arXiv*:2402.01383  [[paper](https://arxiv.org/pdf/2402.01383.pdf)] 
 
 - Human-like Summarization Evaluation with ChatGPT  
