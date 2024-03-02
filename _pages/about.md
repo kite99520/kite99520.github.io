@@ -22,20 +22,23 @@ Preprints
 
 - Are LLM-based Evaluators Confusing NLG Quality Criteria?  
 Xinyu Hu\*, **Mingqi Gao**\*, Sen Hu, Yang Zhang, Yicheng Chen, Teng Xu, Xiaojun Wan  
-*arxiv*: 2402.12055  [[paper](https://arxiv.org/pdf/2402.12055.pdf)]
+*arxiv*:2402.12055  [[pdf](https://arxiv.org/pdf/2402.12055.pdf)]
 
 - LLM-based NLG Evaluation: Current Status and Challenges  
 **Mingqi Gao**\*, Xinyu Hu\*, Jie Ruan, Xiao Pu, Xiaojun Wan  
-*arXiv*:2402.01383  [[paper](https://arxiv.org/pdf/2402.01383.pdf)] 
+*arXiv*:2402.01383  [[pdf](https://arxiv.org/pdf/2402.01383.pdf)] 
 
 - Human-like Summarization Evaluation with ChatGPT  
 **Mingqi Gao**, Jie Ruan, Renliang Sun, Xunjian Yin, Shiping Yang, Xiaojun Wan  
-*arXiv*:2304.02554  [[paper](https://arxiv.org/abs/2304.02554)]  
+*arXiv*:2304.02554  [[pdf](https://arxiv.org/pdf/2304.02554.pdf)]  
 
 - Is Summary Useful or Not? An Extrinsic Human Evaluation of Text Summaries on Downstream Tasks  
 Xiao Pu, **Mingqi Gao**, Xiaojun Wan  
-*arXiv*:2305.15044  [[paper](https://arxiv.org/abs/2305.15044)]
+*arXiv*:2305.15044  [[pdf](https://arxiv.org/pdf/2305.15044.pdf)]
 
+- Social Biases in Automatic Evaluation Metrics for NLG  
+**Mingqi Gao**, Xiaojun Wan  
+*arXiv*:2210.08859 [[pdf](https://arxiv.org/pdf/2210.08859.pdf)]
 
 Selected Publications
 ======
