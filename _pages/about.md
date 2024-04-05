@@ -59,8 +59,9 @@ Selected Publications
 Academic Services
 ======
 
-- Reviewer: AAAI-2023, EMNLP-2023, ACL Rolling Review 2023, HumEval workshop @ RANLP 2023.
-
+Served as a reviewer for:  
+- Conferences: AAAI-2023, EMNLP-2023, ACL Rolling Review 2023 and 2024.
+- Workshops: HumEval @ RANLP 2023, LLMAgents @ ICLR 2024.
 
 Awards
 ======
