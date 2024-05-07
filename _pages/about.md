@@ -62,12 +62,3 @@ Academic Services
 Served as a reviewer for:  
 - Conferences: AAAI-2023, EMNLP-2023, ACL Rolling Review 2023 and 2024.
 - Workshops: HumEval @ RANLP 2023, LLMAgents @ ICLR 2024.
-
-Awards
-======
-
-- Outstanding Graduate, Peking University, 2022
-- Second Class Scholarship, Peking University, 2019
-- Merit Student, Peking University, 2019
-- China Trademark & Patent Law Office Scholarship, Peking University, 2018
-- Academic Excellence Prize, Peking University, 2018
