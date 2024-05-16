@@ -40,6 +40,10 @@ Xinyu Hu\*, **Mingqi Gao**\*, Sen Hu, Yang Zhang, Yicheng Chen, Teng Xu, Xiaojun
 Xiao Pu, **Mingqi Gao**, Xiaojun Wan  
 *LREC-COLING 2024* (to appear)  [[pdf](https://arxiv.org/pdf/2305.15044.pdf)]
 
+- Better than Random: Reliable NLG Human Evaluation with Constrained Active Sampling  
+Jie Ruan, Xiao Pu, **Mingqi Gao**, Xiaojun Wan, Yuesheng Zhu  
+*AAAI 2024* [[pdf](https://ojs.aaai.org/index.php/AAAI/article/view/29857/31493)]  
+
 - Reference Matters: Benchmarking Factual Error Correction for Dialogue Summarization with Fine-grained Evaluation Framework    
 **Mingqi Gao**, Xiaojun Wan, Jia Su, Zhefeng Wang, Baoxing Huai  
 *ACL 2023*  [[pdf](https://aclanthology.org/2023.acl-long.779.pdf)] [[code](https://github.com/kite99520/DialSummFactCorr)]  
