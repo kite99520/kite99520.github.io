@@ -12,17 +12,13 @@ I am a second-year Master's student in the [Wangxuan Institute of Computer Techn
 
 Recent News
 ======
-
+- 2024-05: One paper is accepted to ACL 2024.
 - 2024-02: A survey paper on LLM-based NLG evaluation.
 - 2023-05: Two papers are accepted to ACL 2023 (one at main conference, one at findings). 
 
 
 Preprints
 ======
-
-- Are LLM-based Evaluators Confusing NLG Quality Criteria?  
-Xinyu Hu\*, **Mingqi Gao**\*, Sen Hu, Yang Zhang, Yicheng Chen, Teng Xu, Xiaojun Wan  
-*arxiv*:2402.12055  [[pdf](https://arxiv.org/pdf/2402.12055.pdf)]
 
 - LLM-based NLG Evaluation: Current Status and Challenges  
 **Mingqi Gao**\*, Xinyu Hu\*, Jie Ruan, Xiao Pu, Xiaojun Wan  
@@ -32,16 +28,17 @@ Xinyu Hu\*, **Mingqi Gao**\*, Sen Hu, Yang Zhang, Yicheng Chen, Teng Xu, Xiaojun
 **Mingqi Gao**, Jie Ruan, Renliang Sun, Xunjian Yin, Shiping Yang, Xiaojun Wan  
 *arXiv*:2304.02554  [[pdf](https://arxiv.org/pdf/2304.02554.pdf)]  
 
-- Is Summary Useful or Not? An Extrinsic Human Evaluation of Text Summaries on Downstream Tasks  
-Xiao Pu, **Mingqi Gao**, Xiaojun Wan  
-*arXiv*:2305.15044  [[pdf](https://arxiv.org/pdf/2305.15044.pdf)]
-
-- Social Biases in Automatic Evaluation Metrics for NLG  
-**Mingqi Gao**, Xiaojun Wan  
-*arXiv*:2210.08859 [[pdf](https://arxiv.org/pdf/2210.08859.pdf)]
 
 Selected Publications
 ======
+
+- Are LLM-based Evaluators Confusing NLG Quality Criteria?  
+Xinyu Hu\*, **Mingqi Gao**\*, Sen Hu, Yang Zhang, Yicheng Chen, Teng Xu, Xiaojun Wan  
+*ACL 2024* (to appear)  [[pdf](https://arxiv.org/pdf/2402.12055.pdf)]
+
+- Is Summary Useful or Not? An Extrinsic Human Evaluation of Text Summaries on Downstream Tasks  
+Xiao Pu, **Mingqi Gao**, Xiaojun Wan  
+*LREC-COLING 2024* (to appear)  [[pdf](https://arxiv.org/pdf/2305.15044.pdf)]
 
 - Reference Matters: Benchmarking Factual Error Correction for Dialogue Summarization with Fine-grained Evaluation Framework    
 **Mingqi Gao**, Xiaojun Wan, Jia Su, Zhefeng Wang, Baoxing Huai  
