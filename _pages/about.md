@@ -32,6 +32,8 @@ Preprints
 Selected Publications
 ======
 
+( \* indicates equal contribution)  
+
 - Are LLM-based Evaluators Confusing NLG Quality Criteria?  
 Xinyu Hu\*, **Mingqi Gao**\*, Sen Hu, Yang Zhang, Yicheng Chen, Teng Xu, Xiaojun Wan  
 *ACL 2024* (to appear)  [[pdf](https://arxiv.org/pdf/2402.12055.pdf)]
