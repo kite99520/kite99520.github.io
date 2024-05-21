@@ -40,7 +40,7 @@ Xinyu Hu\*, **Mingqi Gao**\*, Sen Hu, Yang Zhang, Yicheng Chen, Teng Xu, Xiaojun
 
 - Is Summary Useful or Not? An Extrinsic Human Evaluation of Text Summaries on Downstream Tasks  
 Xiao Pu, **Mingqi Gao**, Xiaojun Wan  
-*LREC-COLING 2024* (to appear)  [[pdf](https://arxiv.org/pdf/2305.15044.pdf)]
+*LREC-COLING 2024*  [[pdf](https://aclanthology.org/2024.lrec-main.821.pdf)]
 
 - Better than Random: Reliable NLG Human Evaluation with Constrained Active Sampling  
 Jie Ruan, Xiao Pu, **Mingqi Gao**, Xiaojun Wan, Yuesheng Zhu  
