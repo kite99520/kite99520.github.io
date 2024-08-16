@@ -20,13 +20,17 @@ Recent News
 Preprints
 ======
 
+- Themis: Towards Flexible and Interpretable NLG Evaluation  
+Xinyu Hu, Li Lin, **Mingqi Gao**, Xunjian Yin, Xiaojun Wan  
+*arXiv*:2406.18365 [[pdf](https://arxiv.org/pdf/2406.18365)]
+
 - LLM-based NLG Evaluation: Current Status and Challenges  
 **Mingqi Gao**\*, Xinyu Hu\*, Jie Ruan, Xiao Pu, Xiaojun Wan  
-*arXiv*:2402.01383  [[pdf](https://arxiv.org/pdf/2402.01383.pdf)] 
+*arXiv*:2402.01383  [[pdf](https://arxiv.org/pdf/2402.01383)] 
 
 - Human-like Summarization Evaluation with ChatGPT  
 **Mingqi Gao**, Jie Ruan, Renliang Sun, Xunjian Yin, Shiping Yang, Xiaojun Wan  
-*arXiv*:2304.02554  [[pdf](https://arxiv.org/pdf/2304.02554.pdf)]  
+*arXiv*:2304.02554  [[pdf](https://arxiv.org/pdf/2304.02554)]  
 
 
 Selected Publications
@@ -36,7 +40,7 @@ Selected Publications
 
 - Are LLM-based Evaluators Confusing NLG Quality Criteria?  
 Xinyu Hu\*, **Mingqi Gao**\*, Sen Hu, Yang Zhang, Yicheng Chen, Teng Xu, Xiaojun Wan  
-*ACL 2024* (to appear)  [[pdf](https://arxiv.org/pdf/2402.12055.pdf)]
+*ACL 2024*  [[pdf](https://aclanthology.org/2024.acl-long.516.pdf)]
 
 - Is Summary Useful or Not? An Extrinsic Human Evaluation of Text Summaries on Downstream Tasks  
 Xiao Pu, **Mingqi Gao**, Xiaojun Wan  
