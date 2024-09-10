@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year Master's student in the [Wangxuan Institute of Computer Technology](https://www.icst.pku.edu.cn/english/home/index.htm) at Peking University. My advisor is Prof. [Xiaojun Wan](https://wanxiaojun.github.io/). My current research interest revolves around human-centered NLP, especially the evaluation of text generation and summarization. For NLG Evaluation, I am interested in automatic evaluation, human evaluation, human-AI collaboration, and reproducibility. Previously, I obtained my Bachelor’s degree in the [School of Electronics Engineering and Computer Science](https://eecs.pku.edu.cn/en/) at Peking University.
+I am a third-year Master's student in the [Wangxuan Institute of Computer Technology](https://www.icst.pku.edu.cn/english/home/index.htm) at Peking University. My advisor is Prof. [Xiaojun Wan](https://wanxiaojun.github.io/). My current research interest revolves around human-centered NLP, especially the evaluation of text generation and summarization. For NLG Evaluation, I am interested in automatic evaluation, human evaluation, human-AI collaboration, and reproducibility. Previously, I obtained my Bachelor’s degree in the [School of Electronics Engineering and Computer Science](https://eecs.pku.edu.cn/en/) at Peking University.
 
 Recent News
 ======
