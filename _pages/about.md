@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year Master's student in the [Wangxuan Institute of Computer Technology](https://www.icst.pku.edu.cn/english/home/index.htm) at Peking University. My advisor is Prof. [Xiaojun Wan](https://wanxiaojun.github.io/). My current research interest revolves around human-centered NLP, especially the evaluation of LLMs, text generation, and summarization. For NLG evaluation, I am interested in automatic evaluation, human evaluation, human-AI collaboration, and reproducibility. Recently, I find good scientific value in the statistical analysis of meta-evaluation. Previously, I obtained my Bachelor’s degree in the [School of Electronics Engineering and Computer Science](https://eecs.pku.edu.cn/en/) at Peking University.
+I am a third-year Master's student in the [Wangxuan Institute of Computer Technology](https://www.icst.pku.edu.cn/english/home/index.htm) at Peking University. My advisor is Prof. [Xiaojun Wan](https://wanxiaojun.github.io/). My current research interest revolves around human-centered NLP, especially the evaluation of LLMs, text generation, and summarization. Specifically, I am interested in automatic evaluation, human evaluation, human-AI collaboration, and reproducibility. Recently, I find good scientific value in the statistical analysis of meta-evaluation. Previously, I obtained my Bachelor’s degree in the [School of Electronics Engineering and Computer Science](https://eecs.pku.edu.cn/en/) at Peking University.
 
 Recent News
 ======
@@ -20,17 +20,17 @@ Recent News
 Preprints
 ======
 
-- Themis: Towards Flexible and Interpretable NLG Evaluation  
+- Analyzing and Evaluating Correlation Measures in NLG Meta-Evaluation  
+**Mingqi Gao**, Xinyu Hu, Li Lin, Xiaojun Wan    
+*arXiv*:2410.16834 [[pdf](https://arxiv.org/pdf/2410.16834)]
+
+- Themis: A Reference-free NLG Evaluation Language Model with Flexibility and Interpretability    
 Xinyu Hu, Li Lin, **Mingqi Gao**, Xunjian Yin, Xiaojun Wan  
-*arXiv*:2406.18365 [[pdf](https://arxiv.org/pdf/2406.18365)]
+*EMNLP 2024* (to appear) [[pdf](https://arxiv.org/pdf/2406.18365)]
 
 - LLM-based NLG Evaluation: Current Status and Challenges  
 **Mingqi Gao**\*, Xinyu Hu\*, Jie Ruan, Xiao Pu, Xiaojun Wan  
 *arXiv*:2402.01383  [[pdf](https://arxiv.org/pdf/2402.01383)] 
-
-- Human-like Summarization Evaluation with ChatGPT  
-**Mingqi Gao**, Jie Ruan, Renliang Sun, Xunjian Yin, Shiping Yang, Xiaojun Wan  
-*arXiv*:2304.02554  [[pdf](https://arxiv.org/pdf/2304.02554)]  
 
 
 Selected Publications
