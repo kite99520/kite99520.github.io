@@ -67,5 +67,5 @@ Academic Services
 ======
 
 Served as a reviewer for:  
-- Conferences: AAAI 2023, EMNLP 2023, ACL Rolling Review 2023-2024.
+- Conferences: AAAI 2023, EMNLP 2023, ACL Rolling Review 2023-2024, ICLR 2025.
 - Workshops: HumEval @ RANLP 2023, LLMAgents @ ICLR 2024.
