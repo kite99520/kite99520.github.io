@@ -24,10 +24,6 @@ Preprints
 **Mingqi Gao**, Xinyu Hu, Li Lin, Xiaojun Wan    
 *arXiv*:2410.16834 [[pdf](https://arxiv.org/pdf/2410.16834)]
 
-- Themis: A Reference-free NLG Evaluation Language Model with Flexibility and Interpretability    
-Xinyu Hu, Li Lin, **Mingqi Gao**, Xunjian Yin, Xiaojun Wan  
-*EMNLP 2024* (to appear) [[pdf](https://arxiv.org/pdf/2406.18365)]
-
 - LLM-based NLG Evaluation: Current Status and Challenges  
 **Mingqi Gao**\*, Xinyu Hu\*, Jie Ruan, Xiao Pu, Xiaojun Wan  
 *arXiv*:2402.01383  [[pdf](https://arxiv.org/pdf/2402.01383)] 
@@ -37,6 +33,11 @@ Selected Publications
 ======
 
 ( \* indicates equal contribution)  
+
+
+- Themis: A Reference-free NLG Evaluation Language Model with Flexibility and Interpretability    
+Xinyu Hu, Li Lin, **Mingqi Gao**, Xunjian Yin, Xiaojun Wan  
+*EMNLP 2024*  [[pdf](https://aclanthology.org/2024.emnlp-main.891.pdf)]
 
 - Are LLM-based Evaluators Confusing NLG Quality Criteria?  
 Xinyu Hu\*, **Mingqi Gao**\*, Sen Hu, Yang Zhang, Yicheng Chen, Teng Xu, Xiaojun Wan  
