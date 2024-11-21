@@ -37,11 +37,11 @@ Selected Publications
 
 - Themis: A Reference-free NLG Evaluation Language Model with Flexibility and Interpretability    
 Xinyu Hu, Li Lin, **Mingqi Gao**, Xunjian Yin, Xiaojun Wan  
-*EMNLP 2024*  [[pdf](https://aclanthology.org/2024.emnlp-main.891.pdf)]
+*EMNLP 2024*  [[pdf](https://aclanthology.org/2024.emnlp-main.891.pdf)] [[code](https://github.com/PKU-ONELab/Themis)]
 
 - Are LLM-based Evaluators Confusing NLG Quality Criteria?  
 Xinyu Hu\*, **Mingqi Gao**\*, Sen Hu, Yang Zhang, Yicheng Chen, Teng Xu, Xiaojun Wan  
-*ACL 2024*  [[pdf](https://aclanthology.org/2024.acl-long.516.pdf)]
+*ACL 2024*  [[pdf](https://aclanthology.org/2024.acl-long.516.pdf)] [[code](https://github.com/PKU-ONELab/LLM-evaluator-reliability)]
 
 - Is Summary Useful or Not? An Extrinsic Human Evaluation of Text Summaries on Downstream Tasks  
 Xiao Pu, **Mingqi Gao**, Xiaojun Wan  
