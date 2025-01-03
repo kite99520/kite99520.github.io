@@ -24,6 +24,10 @@ Recent News
 Preprints
 ======
 
+- Re-evaluating Automatic LLM System Ranking for Alignment with Human Preference  
+**Mingqi Gao**\*, Yixin Liu\*, Xinyu Hu, Xiaojun Wan, Jonathan Bragg, Arman Cohan      
+*arXiv*:2501.00560 [[pdf](https://arxiv.org/pdf/2501.00560)]
+
 - Analyzing and Evaluating Correlation Measures in NLG Meta-Evaluation  
 **Mingqi Gao**, Xinyu Hu, Li Lin, Xiaojun Wan    
 *arXiv*:2410.16834 [[pdf](https://arxiv.org/pdf/2410.16834)]
