@@ -10,7 +10,7 @@ redirect_from:
 
 I am a third-year Master's student in the [Wangxuan Institute of Computer Technology](https://www.icst.pku.edu.cn/english/home/index.htm) at Peking University. My advisor is Prof. [Xiaojun Wan](https://wanxiaojun.github.io/). Now I am also a visiting student at [Yale NLP Lab](http://nlp.cs.yale.edu), supervised by [Arman Cohan](https://armancohan.com). Previously, I obtained my Bachelor’s degree in the [School of Electronics Engineering and Computer Science](https://eecs.pku.edu.cn/en/) at Peking University.
 
-My current research interest revolves around the evaluation of LLMs, text generation, and summarization. Specifically, I am interested in automatic evaluation, human evaluation, meta-evaluation, and reproducibility. I believe that evaluation is crucial in current research. Without a more reliable evaluation mechanism, it is difficult to accurately determine whether an innovation is a genuine advancement or merely an illusion, especially in the context of a large amount of incremental research.
+My research experiences revolve around the evaluation of LLMs, text generation, and summarization. Specifically, I am interested in automatic evaluation, human evaluation, meta-evaluation, and reproducibility. I believe that evaluation is crucial in current research. Without a more reliable evaluation mechanism, it is difficult to accurately determine whether an innovation is a genuine advancement or merely an illusion, especially in the context of a large amount of incremental research.
 
 *I am looking for 25 Fall PhD opportunities! Please do not hesitate to contact me if you are interested in my studies.*
 
