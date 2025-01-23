@@ -14,23 +14,10 @@ My research experiences revolve around the evaluation of LLMs, text generation, 
 
 *I am looking for 25 Fall PhD opportunities! Please do not hesitate to contact me if you are interested in my studies.*
 
-Recent News
-======
-- 2024-05: One paper is accepted to ACL 2024.
-- 2024-02: A survey paper on LLM-based NLG evaluation.
-- 2023-05: Two papers are accepted to ACL 2023 (one at main conference, one at findings). 
 
 
 Preprints
 ======
-
-- Re-evaluating Automatic LLM System Ranking for Alignment with Human Preference  
-**Mingqi Gao**\*, Yixin Liu\*, Xinyu Hu, Xiaojun Wan, Jonathan Bragg, Arman Cohan      
-*arXiv*:2501.00560 [[pdf](https://arxiv.org/pdf/2501.00560)]
-
-- Analyzing and Evaluating Correlation Measures in NLG Meta-Evaluation  
-**Mingqi Gao**, Xinyu Hu, Li Lin, Xiaojun Wan    
-*arXiv*:2410.16834 [[pdf](https://arxiv.org/pdf/2410.16834)]
 
 - LLM-based NLG Evaluation: Current Status and Challenges  
 **Mingqi Gao**\*, Xinyu Hu\*, Jie Ruan, Xiao Pu, Xiaojun Wan  
@@ -42,6 +29,14 @@ Selected Publications
 
 ( \* indicates equal contribution)  
 
+
+- Re-evaluating Automatic LLM System Ranking for Alignment with Human Preference  
+**Mingqi Gao**\*, Yixin Liu\*, Xinyu Hu, Xiaojun Wan, Jonathan Bragg, Arman Cohan      
+*Findings of NAACL 2025* (To appear) [[pdf](https://arxiv.org/pdf/2501.00560)]
+
+- Analyzing and Evaluating Correlation Measures in NLG Meta-Evaluation  
+**Mingqi Gao**\*, Xinyu Hu\*, Li Lin, Xiaojun Wan    
+*NAACL 2025* (To appear) [[pdf](https://arxiv.org/pdf/2410.16834)]
 
 - Themis: A Reference-free NLG Evaluation Language Model with Flexibility and Interpretability    
 Xinyu Hu, Li Lin, **Mingqi Gao**, Xunjian Yin, Xiaojun Wan  
