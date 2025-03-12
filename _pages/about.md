@@ -12,9 +12,6 @@ I am a third-year Master's student in the [Wangxuan Institute of Computer Techno
 
 My research experiences revolve around the evaluation of LLMs, text generation, and summarization. Specifically, I am interested in automatic evaluation, human evaluation, meta-evaluation, and reproducibility. I believe that evaluation is crucial in current research. Without a more reliable evaluation mechanism, it is difficult to accurately determine whether an innovation is a genuine advancement or merely an illusion, especially in the context of a large amount of incremental research.
 
-*I am looking for 25 Fall PhD opportunities! Please do not hesitate to contact me if you are interested in my studies.*
-
-
 
 Preprints
 ======
