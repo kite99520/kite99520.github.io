@@ -15,12 +15,7 @@ I am interested in the evaluation of NLP and LLMs, and I believe that evaluation
 I believe that evaluation is crucial in current research. Without a more reliable evaluation mechanism, it is difficult to accurately determine whether an innovation is a genuine advancement or merely an illusion, especially in the context of a large amount of incremental research.
 
 
-Preprints
-======
 
-- LLM-based NLG Evaluation: Current Status and Challenges  
-**Mingqi Gao**\*, Xinyu Hu\*, Jie Ruan, Xiao Pu, Xiaojun Wan  
-*arXiv*:2402.01383  [[pdf](https://arxiv.org/pdf/2402.01383)] 
 
 
 Selected Publications
@@ -28,6 +23,9 @@ Selected Publications
 
 ( \* indicates equal contribution)  
 
+- LLM-based NLG Evaluation: Current Status and Challenges  
+**Mingqi Gao**\*, Xinyu Hu\*, Xunjian Yin, Jie Ruan, Xiao Pu, Xiaojun Wan  
+*Computational Linguistics*  [[pdf](https://direct.mit.edu/coli/article/doi/10.1162/coli_a_00561/128807/LLM-based-NLG-Evaluation-Current-Status-and)] 
 
 - Re-evaluating Automatic LLM System Ranking for Alignment with Human Preference  
 **Mingqi Gao**\*, Yixin Liu\*, Xinyu Hu, Xiaojun Wan, Jonathan Bragg, Arman Cohan      
