@@ -29,11 +29,11 @@ Selected Publications
 
 - Re-evaluating Automatic LLM System Ranking for Alignment with Human Preference  
 **Mingqi Gao**\*, Yixin Liu\*, Xinyu Hu, Xiaojun Wan, Jonathan Bragg, Arman Cohan      
-*Findings of NAACL 2025* (To appear) [[pdf](https://arxiv.org/pdf/2501.00560)]
+*Findings of NAACL 2025*  [[pdf](https://aclanthology.org/2025.findings-naacl.260.pdf)]
 
 - Analyzing and Evaluating Correlation Measures in NLG Meta-Evaluation  
 **Mingqi Gao**\*, Xinyu Hu\*, Li Lin, Xiaojun Wan    
-*NAACL 2025* (To appear) [[pdf](https://arxiv.org/pdf/2410.16834)]
+*NAACL 2025*  [[pdf](https://aclanthology.org/2025.naacl-long.111.pdf)]
 
 - Themis: A Reference-free NLG Evaluation Language Model with Flexibility and Interpretability    
 Xinyu Hu, Li Lin, **Mingqi Gao**, Xunjian Yin, Xiaojun Wan  
