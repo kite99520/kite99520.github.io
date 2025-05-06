@@ -33,7 +33,7 @@ Selected Publications
 
 - Analyzing and Evaluating Correlation Measures in NLG Meta-Evaluation  
 **Mingqi Gao**\*, Xinyu Hu\*, Li Lin, Xiaojun Wan    
-*NAACL 2025*  [[pdf](https://aclanthology.org/2025.naacl-long.111.pdf)]
+*NAACL 2025*  [[pdf](https://aclanthology.org/2025.naacl-long.111.pdf)] [[code](https://github.com/kite99520/NLGCorrEval)]
 
 - Themis: A Reference-free NLG Evaluation Language Model with Flexibility and Interpretability    
 Xinyu Hu, Li Lin, **Mingqi Gao**, Xunjian Yin, Xiaojun Wan  
