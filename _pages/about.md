@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an incoming PhD student at Northeastern University, supervised by Prof. [Weiyan Shi](https://wyshi.github.io). I am currently a third-year Master's student in the [Wangxuan Institute of Computer Technology](https://www.icst.pku.edu.cn/english/home/index.htm) at Peking University supervised by Prof. [Xiaojun Wan](https://wanxiaojun.github.io/). Previously, I obtained my Bachelor’s degree in the [School of Electronics Engineering and Computer Science](https://eecs.pku.edu.cn/en/) at Peking University. I was a visiting student at [Yale NLP Lab](http://nlp.cs.yale.edu), supervised by [Arman Cohan](https://armancohan.com).
+I am an incoming PhD student at Northeastern University, supervised by Prof. [Weiyan Shi](https://wyshi.github.io). Previously, I obtained my bachelor's and master's degrees at Peking University, under the supervision of [Xiaojun Wan](https://wanxiaojun.github.io/). I was a visiting student at [Yale NLP Lab](http://nlp.cs.yale.edu), supervised by [Arman Cohan](https://armancohan.com).
 
 I am interested in the evaluation of NLP and LLMs, and I believe that evaluation has an interdisciplinary nature, including but not limited to human factors, machine learning, and statistics. My work has focused on the evaluation of summarization, generation, and LLMs, exploring various aspects of automatic evaluation, human evaluation, and meta-evaluation. 
 
@@ -22,6 +22,10 @@ Selected Publications
 ======
 
 ( \* indicates equal contribution)  
+
+- A Dual-Perspective NLG Meta-Evaluation Framework with Automatic Benchmark and Better Interpretability  
+Xinyu Hu, **Mingqi Gao**, Li Lin, Zhenghan Yu, Xiaojun Wan  
+*ACL 2025* (To appear) [[pdf](https://arxiv.org/pdf/2502.12052)]
 
 - LLM-based NLG Evaluation: Current Status and Challenges  
 **Mingqi Gao**\*, Xinyu Hu\*, Xunjian Yin, Jie Ruan, Xiao Pu, Xiaojun Wan  
