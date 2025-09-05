@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Mingqi Gao"
 title_separator          : "-"
 name                     : &name "Mingqi Gao"
-description              : &description "Master student at Peking University working on NLP"
+description              : &description "PhD student at Northeastern University working on NLP"
 url                      : https://kite99520.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kite99520/gaomingqi.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Mingqi Gao"
   avatar           : "微信图片_20230801214333.jpg"
-  bio              : "Master's student at Peking University working on NLP"
+  bio              : "PhD student at Northeastern University working on NLP"
   location         : "Beijing, China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=irw09VcAAAAJ&hl=en"
-  email            : "gaomingqi@pku.edu.cn"
+  email            : "gao.mingqi@northeastern.edu"
   researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
