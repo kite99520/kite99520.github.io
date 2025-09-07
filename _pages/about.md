@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year PhD student at Northeastern University, supervised by Prof. [Weiyan Shi](https://wyshi.github.io). Previously, I obtained my bachelor's and master's degrees at Peking University, under the supervision of [Xiaojun Wan](https://wanxiaojun.github.io/). I was a visiting student at [Yale NLP Lab](http://nlp.cs.yale.edu), supervised by [Arman Cohan](https://armancohan.com).
+I am a PhD student at Northeastern University, supervised by Prof. [Weiyan Shi](https://wyshi.github.io). Previously, I obtained my bachelor's and master's degrees at Peking University, under the supervision of [Xiaojun Wan](https://wanxiaojun.github.io/). I was a visiting student at [Yale NLP Lab](http://nlp.cs.yale.edu), supervised by [Arman Cohan](https://armancohan.com).
 
 I am interested in the evaluation of NLP and LLMs, and I believe that evaluation has an interdisciplinary nature, including but not limited to human factors, machine learning, and statistics. My work has focused on the evaluation of summarization, generation, and LLMs, exploring various aspects of automatic evaluation, human evaluation, and meta-evaluation. 
 
