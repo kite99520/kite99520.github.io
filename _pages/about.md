@@ -25,7 +25,7 @@ Selected Publications
 
 - A Dual-Perspective NLG Meta-Evaluation Framework with Automatic Benchmark and Better Interpretability  
 Xinyu Hu, **Mingqi Gao**, Li Lin, Zhenghan Yu, Xiaojun Wan  
-*ACL 2025* (To appear) [[pdf](https://arxiv.org/pdf/2502.12052)]
+*ACL 2025*  [[pdf](https://aclanthology.org/2025.acl-long.1327.pdf)]
 
 - LLM-based NLG Evaluation: Current Status and Challenges  
 **Mingqi Gao**\*, Xinyu Hu\*, Xunjian Yin, Jie Ruan, Xiao Pu, Xiaojun Wan  
