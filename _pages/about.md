@@ -23,6 +23,10 @@ Selected Publications
 
 ( \* indicates equal contribution)  
 
+- Which Metrics Save the Most Human Annotation? Prediction-Powered Evaluation and Meta-Evaluation  
+**Mingqi Gao**, Anthony Sicilia, Weiyan Shi  
+*EMNLP 2026* (To appear) [[pdf](https://arxiv.org/pdf/2608.26638)] [[code](https://github.com/CHATS-lab/ppi-eval)]  
+
 - A Dual-Perspective NLG Meta-Evaluation Framework with Automatic Benchmark and Better Interpretability  
 Xinyu Hu, **Mingqi Gao**, Li Lin, Zhenghan Yu, Xiaojun Wan  
 *ACL 2025*  [[pdf](https://aclanthology.org/2025.acl-long.1327.pdf)]
